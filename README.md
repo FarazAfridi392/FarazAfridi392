@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Faraz Afridi working on Upwork and Fiverr as freelancer.
 - 👀 I’m interested in learing new technologies
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking at working with international clients
+- 💞️ I’m looking forward to work with international clients
 - 📫 You can reach me at farazafridi392@gmail.com
 
 <!---
