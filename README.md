@@ -1,4 +1,4 @@
-![Faraz Afridi 392's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FarazAfridi392&show_icons=true&theme=gruvbox?fetch_all_commits=true)
+[![Faraz Afridi's GitHub stats](https://github-readme-stats.vercel.app/api?username=farazafridi392)](https://github.com/farazafridi392/github-readme-stats)
 - 👋 Hi, I’m Faraz Afridi working on Upwork and Fiverr as freelancer.
 - 👀 I’m interested in learing new technologies.
 - 🌱 I have 3+ years experience in flutter.
