@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Faraz Afridi working on Upwork and Fiverr as freelancer.
 - 👀 I’m interested in learing new technologies.
-- 🌱 I have 4+ years experience in flutter.
+- 🌱 I have 5+ years experience in flutter.
 - 💞️ I’m looking forward to work with international clients.
 - 📫 You can reach me at [Email: farazafridi392@gmail.com].
 
